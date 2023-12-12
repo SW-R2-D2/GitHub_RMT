@@ -11,3 +11,11 @@ lw1 (Task 1, 2)
 Class development Calculator and Date.
 
 ---
+
+lw2-3 (Task 1)
+This practical work has not been completed.
+
+---
+
+lw4 (Task 1)
+This practical work has not been completed.
